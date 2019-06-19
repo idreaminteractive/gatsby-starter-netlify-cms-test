@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Whoa... this is cool.
-image: /img/home-jumbotron.jpg
+image: /img/blog-index.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
@@ -18,7 +18,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/smaller.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
